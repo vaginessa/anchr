@@ -24,7 +24,7 @@
         "express": "4.17.1",
         "helmet": "^4.4.1",
         "htmlparser2": "^4.1.0",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "memory-cache": "^0.2.0",
         "method-override": "^3.0.0",
         "mime-types": "^2.1.34",
